@@ -1,24 +1,10 @@
-# README
+## DMM WEBCAMPコンテンツ[アプリケーションを完成させよう2]
+10章【課題：アプリケーションを作成してみよう：応用編】の課題です
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## 使い方
+- テーマ：ユーザ機能を持ち、読んだ本の感想を投稿するサイト
 
-Things you may want to cover:
+- 完成アプリケーションは、以下のURLで閲覧できます。
+- 実装する機能やレイアウトは、下記の要件を参考にしてください。
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- 完成アプリケーションURL：https://bookers-level2-v3-demo.herokuapp.com/
